@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Holly&#x27;s Portfolio",
+    "description": "",
+    "home_page_url": "https://hollyug.github.io/hollyug.github.io",
+    "feed_url": "https://hollyug.github.io/hollyug.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Holly Grant"
+    },
+    "items": [
+        {
+            "id": "https://hollyug.github.io/hollyug.github.io/about-holly.html",
+            "url": "https://hollyug.github.io/hollyug.github.io/about-holly.html",
+            "title": "About Holly",
+            "summary": "She's a good kid. Is it weird to refer to yourself as a good kid? Not if you use 3rd person! Not weird at all. To be edited later 👀",
+            "content_html": "<p>She's a good kid.<br>Is it weird to refer to yourself as a good kid? Not if you use 3rd person! Not weird at all.</p>\n<p>To be edited later 👀</p>",
+            "author": {
+                "name": "Holly Grant"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-07-24T19:13:52+01:00",
+            "date_modified": "2020-07-24T19:13:52+01:00"
+        }
+    ]
+}

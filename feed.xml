@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Holly&#x27;s Portfolio</title>
+    <link href="https://hollyug.github.io/hollyug.github.io/feed.xml" rel="self" />
+    <link href="https://hollyug.github.io/hollyug.github.io" />
+    <updated>1970-01-01T01:00:00+01:00</updated>
+    <author>
+        <name>Holly Grant</name>
+    </author>
+    <id>https://hollyug.github.io/hollyug.github.io</id>
+
+    <entry>
+        <title>About Holly</title>
+        <author>
+            <name>Holly Grant</name>
+        </author>
+        <link href="https://hollyug.github.io/hollyug.github.io/about-holly.html"/>
+        <id>https://hollyug.github.io/hollyug.github.io/about-holly.html</id>
+
+        <updated>2020-07-24T19:13:52+01:00</updated>
+            <summary>
+                <![CDATA[
+                    She's a good kid. Is it weird to refer to yourself as a good kid? Not if you use 3rd person! Not weird at all. To be edited later 👀
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>She's a good kid.<br>Is it weird to refer to yourself as a good kid? Not if you use 3rd person! Not weird at all.</p>
+<p>To be edited later 👀</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
